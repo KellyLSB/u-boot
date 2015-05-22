@@ -1,0 +1,4 @@
+[submodule "u-boot-novena"]
+	path = novena-src
+	url = https://github.com/xobs/u-boot-novena.git
+	branch = novena-r2
